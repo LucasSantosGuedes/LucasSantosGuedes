@@ -25,4 +25,4 @@
 <img align="Center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div> 
 
-### "Após o meu perfil do GitHub, você encontrará um apaixonado por desafios de dados, amante da inteligência artificial e ávido explorador do vasto universo da análise de dados."
+### Após o meu perfil do GitHub, você encontrará um apaixonado por desafios de dados, amante da inteligência artificial e ávido explorador do vasto universo da análise de dados.
